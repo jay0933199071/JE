@@ -1,0 +1,26 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #FFFFC9;
+    color: #333;
+}
+
+header {
+    background-color: #0044cc;
+    color: #fff;
+    padding: 1em;
+    text-align: center;
+}
+
+h2 {
+    font-size: 1.5em;
+    font-weight: bold;
+    color: #333;
+}
+.image-container {
+    display: flex;
+    gap: 80px; 
+}
+.image-container2{
+    display: flex;
+    gap:  80px ;
+}
